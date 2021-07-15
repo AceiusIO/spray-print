@@ -16,7 +16,12 @@ const printSuccess = (msg) => {
     console.log(chalk.bold('['+chalk.green('!')+']')+' '+msg)
 }
 
+const printCustom = (title,msg) => {
+    console.log(chalk.bold('['+chalk.blue+(title)+']')+' '+msg)
+}
+
 exports.println = printLog;
 exports.warn = printWarning;
 exports.error = printAlert;
 exports.sucess = printSuccess;
+exports.custom = printCustom;
