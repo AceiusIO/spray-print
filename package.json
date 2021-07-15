@@ -1,0 +1,27 @@
+{
+  "name": "spray-print",
+  "version": "1.0.0",
+  "description": "Colorising console.log",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AceiusIO/spray-print.git"
+  },
+  "keywords": [
+    "print",
+    "color",
+    "chalk"
+  ],
+  "author": "AceiusIO <io@acei.us> (acei.us)",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/AceiusIO/spray-print/issues"
+  },
+  "homepage": "https://github.com/AceiusIO/spray-print#readme",
+  "dependencies": {
+    "chalk": "^4.1.1"
+  }
+}
