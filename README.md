@@ -27,6 +27,8 @@ npm install
 yarn install
 ```
 
+After cloning to disk, make your changes and then test with `node test.js`.
+
 ## 🔧 Useage
 ```js
 const print = require('print');
@@ -39,6 +41,7 @@ print.error('Error');
 print.success(':D');
 print.custom('title','message');
 ```
+You can append c to these function names to get an alternate style.
 
 ## 📜 Licencing
 spray-print is licenced under the GNU GPL v3.
