@@ -6,7 +6,7 @@
 
 spray-print is a library that makes your console prints more vibrant using chalk.
 
-This is a breif overview of the documentation. For more information go to https://aceius.gitbook.io.
+This is a breif overview of the documentation. For more information go to https://aceius.gitbook.io
 
 ## 💾 Project setup
 ### As a user:
